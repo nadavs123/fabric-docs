@@ -106,7 +106,7 @@ All actions related to creating and managing tags can be performed programmatica
 Use the Fabric REST Admin APIs for tags to programmatically create, list, rename and delete tenant and domain-level tags, allowing you to automate tag lifecycle and governance workflows.
 For more information, see [Fabric REST Admin APIs for tags](/rest/api/fabric/admin/tags).  
 
-### Tags in Metadata scanning (Scanner) APIs
+### Tags in metadata scanning (Scanner) APIs
 
 The Scanner APIs include applied tags for each scanned item. 
 
